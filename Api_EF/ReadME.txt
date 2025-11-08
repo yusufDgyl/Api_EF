@@ -1,0 +1,1 @@
+Bu proje EF Core kullanarak CRUD iþlemlerini uygulamayý amaçlayan bir temel Web API örneðidir.
